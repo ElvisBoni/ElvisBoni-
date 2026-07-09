@@ -1,11 +1,25 @@
 # Olá, eu sou o Elvis Boni! 👋
 
-Como profissional em transição de carreira, uno minha sólida bagagem empreendedora à tecnologia, com foco em desenvolvimento de software e inteligência de dados. Atualmente cursando Software D[...]
+Como profissional em transição de carreira, uno minha sólida bagagem empreendedora à tecnologia, com foco em desenvolvimento de software e inteligência de dados. Atualmente cursando Desenvolvimento de Software na Byu Pathway
+
+---
+### 🏆 Conquistas e Programas de Elite
+![Santander](https://shields.io)
+![Oracle](https://shields.io)
+![Alura](https://shields.io)
 
 ---
 
-### 🏆 Conquistas e Programas de Elite
-![Santander Premium](https://shields.io)
-![Oracle ONE](https://shields.io)
-![Alura](https://shields.io)
+### 🛠️ Tecnologias e Ferramentas em Foco
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Power BI](https://shields.io)
+![Excel](https://shields.io)
+
+---
+
+### 🛡️ Cibersegurança
+![Cisco](https://shields.io)
+![Fortinet](https://shields.io)
+---
 
