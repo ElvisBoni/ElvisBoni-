@@ -5,3 +5,7 @@ Como profissional em transição de carreira, uno minha sólida bagagem empreend
 ---
 
 ### 🏆 Conquistas e Programas de Elite
+![Santander Premium](https://shields.io)
+![Oracle ONE](https://shields.io)
+![Alura](https://shields.io)
+
